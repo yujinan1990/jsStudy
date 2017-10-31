@@ -1,5 +1,5 @@
 <u>                                                     </u>
-<marquee behavior=alternate>llllllllll</marquee>
+<blink>llllllllll</blink>
 <h2>es6</h2>
 链接： http://es6.ruanyifeng.com/#docs/class
 <u>                                                     </u>
