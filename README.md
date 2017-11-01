@@ -11,7 +11,7 @@
 <u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b><div>{padding-left:20px;}---                     .......                   --- </b></u></br>
 
 <font size="3" color="#DDFFFF" style="font-family:宋体">JS中，可以将对象分为“内部对象”、“宿主对象”和“自定义对象”三种。</font><br>
 链接： http://www.cnblogs.com/flyings/p/7079829.html
