@@ -11,26 +11,26 @@
 <u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b><div>{padding-left:20px;}---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 <font size="3" color="#DDFFFF" style="font-family:宋体">JS中，可以将对象分为“内部对象”、“宿主对象”和“自定义对象”三种。</font><br>
 链接： http://www.cnblogs.com/flyings/p/7079829.html
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 void的应用
 <font size="3" color="#DDFFFF" style="font-family:宋体">通过采用void 0取undefined比采用字面上的undefined更靠谱更安全，应该优先采用void 0这种方式。
 	填充<a>的href确保点击时不会产生页面跳转; 填充<image>的src，确保不会向服务器发出垃圾请求。</font>
 链接：https://segmentfault.com/a/1190000000474941 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 <font size="3" color="#DDFFFF" style="font-family:宋体">函数内声明变量 如果与形参重名 则忽略，因为：优先级低于形参，无效</font>
 
 链接：
-<u> <b>---                     .......                   --- </b></u></br>
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 JS基本数据类型和引用数据类型的区别：
 <font size="3" color="#DDFFFF" style="font-family:宋体">基本类型值指的是简单的数据段；引用类型值指由多个值构成的对象。当我们把变量赋值给一个变量时，解析器首先要做的就是确认这个值是基本类型值还是引用类型值
 常见的五种基本数据类型是：Undifined、Null、Boolean、Number和String。这五种基本数据类型可以直接操作保存在变量中的实际值。
@@ -38,52 +38,52 @@ avascript引用数据类型是保存在堆内存中的对象，与其它语言�
 String实际上并不符合上面两种数据类型分类。它是具有两方面属性介于两都之间的一种特殊类型。</font>
 
 链接： http://blog.csdn.net/yuanjieseo/article/details/49275921
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 <font size="3" color="#DDFFFF" style="font-family:宋体">JavaScript RegExp 对象有 3 个方法：test()、exec() 和 compile()。
 (1) test() 方法用来检测一个字符串是否匹配某个正则表达式，如果匹配成功，返回 true ，否则返回 false；
 (2) exec() 方法用来检索字符串中与正则表达式匹配的值。exec() 方法返回一个数组，其中存放匹配的结果。如果未找到匹配的值，则返回 null；
 （3）compile() 方法可以在脚本执行过程中编译正则表达式，也可以改变已有表达式。</font></br>
 
 链接： http://www.itxueyuan.org/view/6441.html
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 基本类型、引用类型：
 <font size="3" color="#DDFFFF" style="font-family:宋体">基本类型就是Undefined、Null、Boolean、Number、String，引用类型是object。基本包装类型和引用类型的区别就是生存期不同，在代码执行后就会销毁实例。</font></br>
 
 链接 ： https://www.zhihu.com/question/40683360
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 <font size="3" color="#DDFFFF" style="font-family:宋体">js中this的用法,this总是指向调用它的对象</font></br>
 链接 ： http://www.cnblogs.com/painsOnline/p/5102359.html
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 js函数调用时加括号和不加括号的区别.
 <font size="3" color="#DDFFFF" style="font-family:宋体">不加括号相当于把函数代码赋给等号左边,加括号是把函数返回值赋给等号左边</font></br>
 
 链接 ： https://www.zhihu.com/question/31044040
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 mvc设计模式和设计框架的区别：
 <font size="3" color="#DDFFFF" style="font-family:宋体">架构：简单的说架构就是一个蓝图，是一种设计方案，将客户的不同需求抽象成为抽象组件，并且能够描述这些抽象组件之间的通信和调用。
 框架：软件框架是项目软件开发过程中提取特定领域软件的共性部分形成的体系结构，不同领域的软件项目有着不同的框架类型。框架不是现成可用的应用系　　　　　统。而是一个半成品，提供了诸多服务，开发人员进行二次开发，实现具体功能的应用系统。
 设计模式：是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，它强调的是一个设计问题的解决方法。</font></br>
 
 链接 ： http://www.cnblogs.com/understander/p/5552207.html
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 http://developer.51cto.com/art/201509/490502.htm
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 web框架基础：
 Web 服务器之殇
 <font size="3" color="#DDFFFF" style="font-family:宋体">如果我们继续以上面的例子为基础建立 web 应用，我们还需要解决很多问题：</br>
