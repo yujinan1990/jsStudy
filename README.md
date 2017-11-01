@@ -1,14 +1,14 @@
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 <h2>es6</h2>
 链接： http://es6.ruanyifeng.com/#docs/class
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 <h2><u>require</u></h2>
 <font size="3" color="#DDFFFF" style="font-family:宋体">JS中，在es6以前，它是不支持”类”（class），所以也就没有”模块”（module）了。require时代. Javascript社区做了很多努力，在现有的运行环境中，实现”模块”的效果。ES6标准发布后，module成为标准，标准使用是以export指令导出接口，以import引入模块，但是在我们一贯的node模块中，我们依然采用的是CommonJS规范，使用require引入模块，使用module.exports导出接口。</font><br>
 <p>链接： <url>http://www.cnblogs.com/libin-1/p/7127481.html </url></p>
-<u> <b>---                     .......                   --- </b></u></br>
+<u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 
 <u> <b>---                     .......                   --- </b></u></br>
