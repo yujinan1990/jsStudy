@@ -1,7 +1,35 @@
+<div background-color: rgb(245,245,213)> 
+<h2> npm使用入门 </h2>
+<font size="3" color="#DDFFFF" style="font-family:宋体">
+	npm就是javascript的包管理工具，类似 java语法当中的maven, gradle, python的pip。</br>
+	package.json用来描述一个包，类似java语言中的pom.xml,python语言中的requirements.txt。</br>
+	npm命令 ：								</br>
+		init 初始化一个package.json文件				</br>
+		install 会读取package.json文件来安装模块。安装的模块分为两类
+dependencies和devDependencies，分别对应生产环境需要的安装包和开发环境需要的安装包。</br>
+			</t> 其中的--save选项会在安装模块时同时修改package.json来记录安装信息。
+		uninstall卸载模块
+		update更新模块
+	ps: package 是什么？						</br>
+	<div background-color: rgb(128, 128, 128) >
+	A package is:
+a) a folder containing a program described by a package.json file
+b) a gzipped tarball containing (a)
+c) a url that resolves to (b)
+d) a <name>@<version> that is published on the registry (see npm-registry) with (c)
+e) a <name>@<tag> (see npm-dist-tag) that points to (d)
+f) a <name> that has a "latest" tag satisfying (e)
+g) a <git remote url> that resolves to (a)
+	<a>https://docs.npmjs.com/cli/install</a>
+	</div>
+	ps: package.json是什么?https://segmentfault.com/q/1010000002629038 </br> 
+	ps: require机制。http://www.ruanyifeng.com/blog/2015/05/require.html 其中的commonJs 已被node.js取代In May 2013, Isaac Z. Schlueter, the author of npm, the package manager for Node.js, said CommonJS is being made obsolete by Node.js, and is avoided by the core Node.js developers.
+	
+</font>
 
 </br><u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
-<h2> js的异步实现是通过回掉函数 <h2></br>
+<h2> js的异步实现是通过回掉函数 </h2></br>
 <font size="3" color="#DDFFFF" style="font-family:宋体">
 异步 是从计算机内部的角度来说的，cpu一个时间片段一个时间片段的处理任务，宏观上看 多个任务像是在同步执行。</br>
 同步 则是计算机内部cpu一次只处理一个任务，处理完后在切换到下个进程。宏观上看，任务是一个接着一个处理的。</br>
@@ -189,4 +217,4 @@ javascript暗黑
 	
 	person = { this.xxx :xxx, this.xxx : xxx,}
 	
-
+</div>
