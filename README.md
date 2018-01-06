@@ -1,18 +1,23 @@
-<h2> js的异步实现是通过回掉函数 <h2>
+
+</br><u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
+
+<h2> js的异步实现是通过回掉函数 <h2></br>
 <font size="3" color="#DDFFFF" style="font-family:宋体">
-异步 是从计算机内部的角度来说的，cpu一个时间片段一个时间片段的处理任务，宏观上看 多个任务像是在同步执行。
-同步 则是计算机内部cpu一次只处理一个任务，处理完后在切换到下个进程。宏观上看，任务是一个接着一个处理的。
-nodejs中回掉函数的第一个参数必须是err，因为执行分为两段，第一段 和 第二段的会调，两段之间程序出现的错误程序无法捕捉只能作为参数。
-promise提供了then方法加载回调函数，catch方法捕捉执行过程中抛出的错误。
-generator就是其它编程语言实现异步所采用的<b>协程</b>在js上的实现。整个generator就是封装的异步任务，或曰异步任务的容器。
-<link> http://www.ruanyifeng.com/blog/2015/04/generator.html</link>
+异步 是从计算机内部的角度来说的，cpu一个时间片段一个时间片段的处理任务，宏观上看 多个任务像是在同步执行。</br>
+同步 则是计算机内部cpu一次只处理一个任务，处理完后在切换到下个进程。宏观上看，任务是一个接着一个处理的。</br>
+nodejs中回掉函数的第一个参数必须是err，因为执行分为两段，第一段 和 第二段的会调，两段之间程序出现的错误程序无法捕捉只能作为参数。</br>
+promise提供了then方法加载回调函数，catch方法捕捉执行过程中抛出的错误。</br>
+generator就是其它编程语言实现异步所采用的<b>协程</b>在js上的实现。整个generator就是封装的异步任务，或曰异步任务的容器。</br>
+<link> http://www.ruanyifeng.com/blog/2015/04/generator.html</link></br>
 </font>
 
 </br><u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
 
 <h2>es6</h2>
 链接： http://es6.ruanyifeng.com/#docs/class
+
 </br><u> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....... &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</b></u></br>
+
 <h2><u>require</u></h2>
 <font size="3" color="#DDFFFF" style="font-family:宋体">JS中，在es6以前，它是不支持”类”（class），所以也就没有”模块”（module）了。require时代. Javascript社区做了很多努力，在现有的运行环境中，实现”模块”的效果。ES6标准发布后，module成为标准，标准使用是以export指令导出接口，以import引入模块，但是在我们一贯的node模块中，我们依然采用的是CommonJS规范，使用require引入模块，使用module.exports导出接口。</font><br>
 <p>链接： <url>http://www.cnblogs.com/libin-1/p/7127481.html </url></p>
